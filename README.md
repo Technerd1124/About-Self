@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning  JavaScript 
 - 📫 How to reach me  technerd1124@gmail.com ...
 
-PORTFOLIO : https://gentle-concha-e4eab0.netlify.app/
+PORTFOLIO : https://dhanshrilondhe.netlify.app/
 
 
 My Deployed Projects ; 
