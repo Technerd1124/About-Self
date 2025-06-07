@@ -1,11 +1,9 @@
 - 👋 Hi, MySelf Dhanshri | Diploma 3rd Year Student 
 - 👩‍💻 Tech enthusiast 
-- 👀 I’m interested in WebDevelopment...
-- 🌱 I’m currently learning  JavaScript 
+-   always willing to learn new Technologies ...
 - 📫 How to reach me  technerd1124@gmail.com ...
 
 PORTFOLIO : https://dhanshrilondhe.netlify.app/
-
 
 My Deployed Projects ; 
 
